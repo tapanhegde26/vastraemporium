@@ -4,7 +4,7 @@ const Product = require("../controller/ProductController");
 const router = express.Router();
 
 router.get("/",(req, res)=>{
-    res.status(200).send("humari-dukan");
+    res.status(200).send("vastra-emporium");
 })
 
 // create api
