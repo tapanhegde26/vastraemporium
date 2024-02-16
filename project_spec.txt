@@ -1,1 +1,2 @@
 This is feature branch file
+this is sample commit to feature branch file
